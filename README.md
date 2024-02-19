@@ -4,5 +4,5 @@
 
 ### 1. 常用书签
 
-* [8度科技新版书签](https://github.com/Discover623/Discover623.github.io/blob/main/1.md)
-* [Mirraの书签@AWAvenue](WANG\Mirraの书签@AWAvenue.md)
+* [8度科技新版书签](https://github.com/Discover623/Discover623.github.io/blob/main/WANG/Mirra%E3%81%AE%E4%B9%A6%E7%AD%BE%40AWAvenue.md)
+* [Mirraの书签@AWAvenue](https://github.com/Discover623/Discover623.github.io/blob/main/WANG/Mirra%E3%81%AE%E4%B9%A6%E7%AD%BE%40AWAvenue.md)
