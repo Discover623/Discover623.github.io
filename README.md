@@ -6,11 +6,5 @@
 
 ### 1. 常用书签
 
-- [x] 🎉 通常 `Markdown` 解析器自带的基本功能；
-- [x] 🍀 支持**流程图**、**甘特图**、**时序图**、**任务列表**；
-- [x] 🏁 支持粘贴 HTML 自动转换为 Markdown；
-- [x] 💃🏻 支持插入原生 Emoji、设置常用表情列表；
-- [x] 🚑 支持编辑内容保存**本地存储**，防止意外丢失；
-- [x] 📝 支持**实时预览**，主窗口大小拖拽，字符计数；
-- [x] 🛠 支持常用快捷键(**Tab**)，及代码块添加复制
-- [x] ✨ 支持**导出**携带样式的 PDF、PNG、JPEG 等；
+* [8度科技新版书签](https://github.com/Discover623/Discover623.github.io/blob/main/WANG/8%E5%BA%A6%E7%A7%91%E6%8A%80%E6%96%B0%E7%89%88%E4%B9%A6%E7%AD%BE.html)
+* [Mirraの书签@AWAvenue](https://github.com/Discover623/Discover623.github.io/blob/main/WANG/Mirra%E3%81%AE%E4%B9%A6%E7%AD%BE%40AWAvenue.html)
